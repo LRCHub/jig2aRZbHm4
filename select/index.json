@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Fool For You",
+  "base_artist": "Kastra",
+  "createdAt": "2025-12-01T08:11:49.754934Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fool for You Baby",
+      "artist": "New York Dolls",
+      "has_synced": true,
+      "path": "select/01_Fool_for_You_Baby_New_York_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "fOoL fOr YoU",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/02_fOoL_fOr_YoU_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fool For You",
+      "artist": "Rod Stewart",
+      "has_synced": false,
+      "path": "select/03_Fool_For_You_Rod_Stewart.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fool for You (feat. Philip Bailey)",
+      "artist": "CeeLo Green",
+      "has_synced": true,
+      "path": "select/04_Fool_for_You_(feat._Philip_Bailey)_CeeLo_Green.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fool For You (feat. Philip Bailey)",
+      "artist": "Cee Lo Green",
+      "has_synced": true,
+      "path": "select/05_Fool_For_You_(feat._Philip_Bailey)_Cee_Lo_Green.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fool for You Anyway",
+      "artist": "Average White Band",
+      "has_synced": true,
+      "path": "select/06_Fool_for_You_Anyway_Average_White_Band.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Fool For You",
+      "artist": "Otis Redding",
+      "has_synced": false,
+      "path": "select/07_A_Fool_For_You_Otis_Redding.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Fool for You",
+      "artist": "Ray Charles",
+      "has_synced": true,
+      "path": "select/08_A_Fool_for_You_Ray_Charles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Fool for You",
+      "artist": "Ray Charles",
+      "has_synced": true,
+      "path": "select/09_A_Fool_for_You_Ray_Charles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fool For You Anyway",
+      "artist": "Foreigner",
+      "has_synced": true,
+      "path": "select/10_Fool_For_You_Anyway_Foreigner.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fool for You",
+      "artist": "The Impressions",
+      "has_synced": false,
+      "path": "select/11_Fool_for_You_The_Impressions.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fool for You",
+      "artist": "Impressions",
+      "has_synced": false,
+      "path": "select/12_Fool_for_You_Impressions.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'm a Fool for You",
+      "artist": "38 Special",
+      "has_synced": false,
+      "path": "select/13_I'm_a_Fool_for_You_38_Special.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fool For You",
+      "artist": "James Taylor",
+      "has_synced": true,
+      "path": "select/14_Fool_For_You_James_Taylor.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fool For You",
+      "artist": "ZAYN",
+      "has_synced": false,
+      "path": "select/pl_01_Fool_For_You_ZAYN.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "FOOL FOR YOU ～コンチキショウ～",
+      "artist": "ZAYN",
+      "has_synced": false,
+      "path": "select/pl_02_FOOL_FOR_YOU_~コンチキショウ~_ZAYN.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Fool For You",
+      "artist": "ZAYN",
+      "has_synced": false,
+      "path": "select/pl_03_Fool_For_You_ZAYN.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Fool For You",
+      "artist": "ZAYN",
+      "has_synced": false,
+      "path": "select/pl_04_Fool_For_You_ZAYN.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Fool For You",
+      "artist": "ZAYN",
+      "has_synced": false,
+      "path": "select/pl_05_Fool_For_You_ZAYN.txt"
+    }
+  ]
+}
